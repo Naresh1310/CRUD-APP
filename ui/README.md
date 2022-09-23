@@ -1,4 +1,4 @@
-# crudtable
+# CRUD APP
 
 ## Project setup
 ```
